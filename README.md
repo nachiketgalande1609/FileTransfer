@@ -6,7 +6,7 @@
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/link....
+   git clone https://github.com/nachiketgalande1609/FileTransfer.git
 
 2. **Create Virtual Environment:**
    - Open a terminal or command prompt.
