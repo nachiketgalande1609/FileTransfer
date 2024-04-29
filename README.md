@@ -1,6 +1,6 @@
 # FileTransfer
 
-![Alt Text](https://github.com/nachiketgalande1609/FileTransfer/blob/main/screenshots/app.png)
+![Alt Text](https://github.com/nachiketgalande1609/FileTransfer/blob/main/screenshots/app_mac.png)
 
 ## Steps to Run the Code
 
@@ -51,3 +51,21 @@
      ```bash
      deactivate
      ```
+
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/nachiketgalande1609/FileTransfer/blob/main/screenshots/app_iphone.png" alt="Alt Text">
+</p>
+
+### File Attached
+
+<p align="center">
+  <img src="https://github.com/nachiketgalande1609/FileTransfer/blob/main/screenshots/file_attached_iphone.png" alt="Alt Text">
+</p>
+
+### File Uploaded
+
+<p align="center">
+  <img src="https://github.com/nachiketgalande1609/FileTransfer/blob/main/screenshots/file_uploaded_iphone.png" alt="Alt Text">
+</p>
